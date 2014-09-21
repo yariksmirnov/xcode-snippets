@@ -12,6 +12,6 @@
     static NSString *CellIdentifier = @"Cell";
     UICollectionViewCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:CellIdentifier
                                                                            forIndexPath:indexPath];
-    <#Cell Con>
+    <#Cell Configuration Code>
     return cell;
 }
