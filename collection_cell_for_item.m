@@ -1,6 +1,7 @@
 // Collection Cell For Item
 // 
 //
+// IDECodeSnippetCompletionPrefix: cellForItem
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: A6CFAEA4-F5A0-4D4A-8BDE-E03C9C0F8898
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
@@ -11,5 +12,6 @@
     static NSString *CellIdentifier = @"Cell";
     UICollectionViewCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:CellIdentifier
                                                                            forIndexPath:indexPath];
+    <#Cell Con>
     return cell;
 }
