@@ -1,5 +1,5 @@
 // Collection Cell For Item
-// 
+// Collection cellForItem method implementation code
 //
 // IDECodeSnippetCompletionPrefix: cellForItem
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
