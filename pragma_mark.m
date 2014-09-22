@@ -1,5 +1,5 @@
 // Pragma mark
-// Add #pragma mark 
+// Add #pragma mark
 //
 // IDECodeSnippetCompletionPrefix: pragma
 // IDECodeSnippetCompletionScopes: [ClassImplementation]

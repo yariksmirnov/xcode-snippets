@@ -1,17 +1,17 @@
-// Collection Cell For Item
-// Collection cellForItem method implementation code
+// Collection View Cell For Item
+// 
 //
 // IDECodeSnippetCompletionPrefix: cellForItem
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: A6CFAEA4-F5A0-4D4A-8BDE-E03C9C0F8898
+// IDECodeSnippetIdentifier: 71B23816-0141-4CA7-B3C8-A87B13FE4CC5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
     static NSString *CellIdentifier = @"Cell";
     UICollectionViewCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:CellIdentifier
                                                                            forIndexPath:indexPath];
-    <#Cell Configuration Code#>
+    <#Configuration Code#>
     return cell;
 }

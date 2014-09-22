@@ -1,4 +1,4 @@
-// Abstract method 
+// Abstract method
 // Method implementation with asset
 //
 // IDECodeSnippetCompletionPrefix: abstract

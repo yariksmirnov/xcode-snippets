@@ -1,4 +1,4 @@
-// Selector Check 
+// Selector Check
 // Check if self.delegate responds to some selector
 //
 // IDECodeSnippetCompletionPrefix: responds
