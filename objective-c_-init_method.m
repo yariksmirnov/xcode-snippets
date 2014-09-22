@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: init
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: B25FEFF4-89B8-4266-85F4-1DC0CB2B6769
+// IDECodeSnippetIdentifier: C957EE76-A97F-4AEB-8D4B-11CB621C34FA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (instancetype)init
 {
     self = [super init];
