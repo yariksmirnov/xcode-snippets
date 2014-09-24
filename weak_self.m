@@ -1,5 +1,5 @@
 // Weak Self
-// 
+// Weak pointer to self
 //
 // IDECodeSnippetCompletionPrefix: weakself
 // IDECodeSnippetCompletionScopes: [CodeBlock]
