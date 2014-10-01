@@ -1,5 +1,5 @@
 // GCD: Disaptch After
-// disaptch_after
+// dispatch_after
 //
 // IDECodeSnippetCompletionPrefix: dispatch_after
 // IDECodeSnippetCompletionScopes: [CodeBlock]
