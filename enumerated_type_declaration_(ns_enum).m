@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: nsenum
 // IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 55A559FF-DE7B-4C1D-BB23-A66EDB9A7B18
+// IDECodeSnippetIdentifier: 75B388C1-10E7-43C0-9025-E7C93DE6A3DC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 typedef NS_ENUM(NSUInteger, <#MyEnum#>) {
     <#MyEnumValueA#>,
     <#MyEnumValueB#>,
