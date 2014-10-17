@@ -1,5 +1,5 @@
 // Keyabord Appearence
-// 
+// Handle keyabord appearence
 //
 // IDECodeSnippetCompletionPrefix: keyabord
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
