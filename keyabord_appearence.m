@@ -1,6 +1,7 @@
 // Keyabord Appearence
 // 
 //
+// IDECodeSnippetCompletionPrefix: keyabord
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 00964805-4A7E-4763-AA1B-DDD9A5FDE038
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
