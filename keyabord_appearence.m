@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 00964805-4A7E-4763-AA1B-DDD9A5FDE038
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (void)handleKeyboardAppearence
 {
     __weak typeof(self) weakSelf = self;
