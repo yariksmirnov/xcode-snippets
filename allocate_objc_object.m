@@ -1,4 +1,4 @@
-// Allocate Objc object
+// Alloc - Init
 // 
 //
 // IDECodeSnippetCompletionScopes: [All]
