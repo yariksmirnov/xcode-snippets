@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: BDF5A419-BA0A-4140-A49A-CC3E3FE6EC93
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 func handleKeybordAppearece() {
         subscribeForNotification(UIKeyboardWillShowNotification, withBlock: { (notification : NSNotification!) -> Void in
             var duration = notification.userInfo![UIKeyboardAnimationDurationUserInfoKey] as! Float
