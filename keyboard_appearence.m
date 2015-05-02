@@ -11,7 +11,7 @@ func handleKeybordAppearece() {
         subscribeForNotification(UIKeyboardWillShowNotification, withBlock: { (notification : NSNotification!) -> Void in
             var duration = notification.userInfo![UIKeyboardAnimationDurationUserInfoKey] as! Float
             var curve = notification.userInfo![UIKeyboardAnimationCurveUserInfoKey] as! OptionBits
-            var frame = notifcation.userInfo![UIKeyboardFrameBeginUserInfoKey] as! NSValue
+            var frame = notification.userInfo![UIKeyboardFrameBeginUserInfoKey] as! NSValue
             <#Code#>
         })
         subscribeForNotification(UIKeyboardWillHideNotification, withBlock: { (notification : NSNotification!) -> Void in
