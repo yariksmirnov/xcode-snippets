@@ -1,6 +1,7 @@
 // Keyboard Appearence
-// 
+// Observe keyabord appearence notifications
 //
+// IDECodeSnippetCompletionPrefix: keyboard
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: BDF5A419-BA0A-4140-A49A-CC3E3FE6EC93
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
