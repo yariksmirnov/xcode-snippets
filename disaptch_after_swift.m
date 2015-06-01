@@ -1,4 +1,4 @@
-// Disaptch After Swift
+// GCD Disaptch After Swift
 // 
 //
 // IDECodeSnippetCompletionPrefix: dispatch_after
