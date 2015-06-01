@@ -1,5 +1,5 @@
 // GCD Disaptch After Swift
-// 
+// dispatch_after()
 //
 // IDECodeSnippetCompletionPrefix: dispatch_after
 // IDECodeSnippetCompletionScopes: [CodeBlock]
